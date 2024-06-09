@@ -1,0 +1,2 @@
+# paperAirPlaneAdventure
+Game privacy
